@@ -1,4 +1,4 @@
-package org.example.sandbox.hello.algorithims;
+package org.example.sandbox.algorithims;
 
 public class Algorithm {
     public static int fibonacci(int n) {

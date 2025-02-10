@@ -1,4 +1,4 @@
-package org.example.sandbox.hello;
+package org.example.sandbox;
 
 public class Hello {
     public static void main (String [] args){
