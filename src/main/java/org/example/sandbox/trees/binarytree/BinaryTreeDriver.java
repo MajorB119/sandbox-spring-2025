@@ -12,7 +12,7 @@ public class BinaryTreeDriver {
 
         Tree<Integer> binaryTree = new BinaryTree<>();
 
-        binaryTree.insert(8);
+        /*binaryTree.insert(8);
         binaryTree.insert(10);
         binaryTree.insert(11);
         binaryTree.insert(3);
@@ -23,9 +23,9 @@ public class BinaryTreeDriver {
         binaryTree.insert(12);
         binaryTree.insert(2);
         binaryTree.insert(9);
-        binaryTree.insert(5);
+        binaryTree.insert(5);*/
 
-/*        binaryTree.insert(1);
+        binaryTree.insert(1);
         binaryTree.insert(2);
         binaryTree.insert(3);
         binaryTree.insert(4);
@@ -36,7 +36,7 @@ public class BinaryTreeDriver {
         binaryTree.insert(9);
         binaryTree.insert(10);
         binaryTree.insert(11);
-        binaryTree.insert(12);*/
+        binaryTree.insert(12);
 
         System.out.println("In Order traversal of binary tree will be:");
         printTraversal(binaryTree.iteratorInOrder());
